@@ -164,7 +164,8 @@ Finally, custom model evaluation can be achieved by this command as we mentioned
 ```
 python main.py -c config/st_gcn/<dataset>/test.yaml --weights <path to model weights>
 ```
-
+相关连接:https://davidham3.github.io/blog/2018/04/18/spatial-temporal-graph-convolutional-networks-for-skeleton-based-action-recognition/
+https://ai.zhangzhe.info/2018/05/18/180518-gcn-code-explain/
 ## Citation
 Please cite the following paper if you use this repository in your reseach.
 ```
